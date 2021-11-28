@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chetos-dev
 
 - 👀 I’m interested in mechatronics and automatization
-- 🌱 I’m currently learning oython 
+- 🌱 I’m currently learning piton 
 -
 - 📫 How to reach me ..., idk, just send me a msg or sth. 
 yeah, I know this is the default description, I might not change it. :)
